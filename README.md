@@ -21,4 +21,4 @@ Components:
   Celery:<br>
     1. To process images and download excel output in required format<br>
 
-Postman collection:<br>
+postman collection and demo video are attached in repo
